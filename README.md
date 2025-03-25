@@ -1,5 +1,4 @@
 # Lion Discord Bot TOS Privacy Policy
-# Lion-Discord-Bot
 ```
                                                ,w.
                                               ,YWMMw  ,M  ,
